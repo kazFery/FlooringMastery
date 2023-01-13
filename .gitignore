@@ -3,9 +3,10 @@
 .project
 .settings/
 
-data/
-backup/
-orders/
+/data
+/backup
+/orders
+lastorderNumber.txt
 
 # Intellij
 .idea/
